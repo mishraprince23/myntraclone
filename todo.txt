@@ -1,0 +1,10 @@
+# Project TODO List
+
+- [ ] Initialize project repo
+- [ ] Install dependencies
+- [ ] Write initial code
+- [ ] Test basic features
+
+────────────────────────────
+
+[Click here to set a deadline]
