@@ -5,5 +5,45 @@
 }
 header{
     display: flex;
+    background-color:floralwhite ;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+
 
 }
+.Myntrahome{
+    height: 36px;
+    width: 53px;
+}
+.logocontainer{
+    margin-left: 4%;
+}
+.actionbar{
+    margin-right: 4%;
+}
+.navbar{
+    display: flex;
+    min-width: 500px;
+    justify-content: space-between;
+
+}
+.navbar a {
+    font-size: 14px;
+    letter-spacing: .3px;
+    color: #282c3f;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 28px 0;
+    border-bottom: 5px solid #ffffff;
+
+}
+.nav_bar a sup {
+    color: #ff3f6c;
+    font-size: 10px;
+}
+.nav_bar a:hover {
+    border-bottom: 4px solid #f54e77;
+}
+
